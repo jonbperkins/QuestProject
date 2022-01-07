@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7413d3d4f02fa74b81ff70c1d2bc0df, type: 3}
+  m_Name: Raise 1CM
+  m_EditorClassIdentifier: 
+  delayTime: 0
+  rotateDirection: {x: 0, y: 1, z: 0}
+  rotationDegPerSec: 0
+  targetRotations: 0
+  functTypeRotation: 2
+  moveDirection: {x: 0, y: 1, z: 0}
+  moveCyclesPerSec: 0.5
+  moveDistanceCM: 1
+  targetMoveCycles: 0.5
+  functTypeMove: 2
+  scaleDirection: {x: 0, y: 1, z: 0}
+  scaleCyclesPerSec: 0
+  scaleShrinkPercent: 0
+  targetScaleCycles: 0
+  functTypeScale: 2
+  intensity: 0
+  recolorCyclesPerSec: 0
+  recolorTargetCycles: 0
+  functTypeRecolor: 0

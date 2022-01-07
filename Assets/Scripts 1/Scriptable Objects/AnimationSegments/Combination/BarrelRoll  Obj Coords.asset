@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7413d3d4f02fa74b81ff70c1d2bc0df, type: 3}
+  m_Name: BarrelRoll  Obj Coords
+  m_EditorClassIdentifier: 
+  delayTime: 0
+  rotateDirection: {x: 0, y: 0, z: 1}
+  rotationDegPerSec: 180
+  targetRotations: 100000
+  functTypeRotation: 0
+  rotateTowardsRightHand: 0
+  moveDirection: {x: 0, y: 0, z: 1}
+  moveCyclesPerSec: 0.1
+  moveDistanceCM: 100
+  targetMoveCycles: 100
+  functTypeMove: 0
+  scaleDirection: {x: 0, y: 0, z: 0}
+  scaleCyclesPerSec: 0
+  scaleShrinkPercent: 0
+  targetScaleCycles: 0
+  functTypeScale: 0
+  intensity: 0
+  recolorCyclesPerSec: 0
+  recolorTargetCycles: 0
+  functTypeRecolor: 0
+  useObjectAxis: 1

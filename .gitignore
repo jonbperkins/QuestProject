@@ -1,7 +1,4 @@
-#Project specific
-/Assets/Oculus/
-/Assets/TutorialInfo/
-/Assets/ExampleAssets/
+
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
@@ -21,6 +18,15 @@
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
+
+#Project specific
+/Assets/Oculus/
+/Assets/TutorialInfo/
+/Assets/ExampleAssets/
+/Assets/KUBIKOS*/
+/Assets/KUBIKOS*
+/Assets/TextMesh*/
+/Assets/TextMesh*
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
